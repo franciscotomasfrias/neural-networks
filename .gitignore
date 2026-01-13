@@ -11,5 +11,8 @@ env/
 data/
 models/
 
+# Ignore project Files folders
+p2/Files/
+
 # OS
 .DS_Store
